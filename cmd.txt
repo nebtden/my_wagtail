@@ -1,0 +1,2 @@
+公司电脑配置
+C:\Users\Administrator\Anaconda3\Scripts\activate   C:\Users\Administrator\Anaconda3\envs\django
