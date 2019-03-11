@@ -1,2 +1,3 @@
 公司电脑配置
 C:\Users\Administrator\Anaconda3\Scripts\activate   C:\Users\Administrator\Anaconda3\envs\django
+python manage.py runserver 127.0.0.1:8080
