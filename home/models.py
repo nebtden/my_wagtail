@@ -12,6 +12,12 @@ class HomePage(Page):
         FieldPanel('body', classname="full"),
     ]
 
+class NewHomePage(Page):
+    body = RichTextField(blank=True)
+
+    content_panels = Page.content_panels + [
+        FieldPanel('body', classname="full"),
+    ]
 
 # class BlogIndexPage(Page):
 #     intro = RichTextField(blank=True)
